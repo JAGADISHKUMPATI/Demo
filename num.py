@@ -1,3 +1,4 @@
+Hello World
 from functools import reduce
 arr = [12, 3, 4, 15]
 ans = reduce(lambda a, b: a + b, arr)
