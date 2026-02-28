@@ -6,7 +6,7 @@ public class MultiplyTwoNumbers {
         float second = 2.0f;
 
         float product = first * second;
-	System.ot.println("Hello world");
+	System.ot.println("Hello world OK");
         System.out.println("The product is equal to: " + product);
     }
 }
